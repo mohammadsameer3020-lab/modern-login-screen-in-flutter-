@@ -11,7 +11,8 @@
 ) | • تصميم نظيف باستخدام `Rubik` font <br> • حقول إدخال مخصصة <br> • تنقل سلس بين الشاشات |
 ![Login Preview](<img width="652" height="848" alt="Annotation 2026-05-10 221832" src="https://github.com/user-attachments/assets/acb86e2d-6771-4263-92b3-eb9487fbfe55" />
 )
-![Login Preview](<img width="680" height="852" alt="Annotation 2026-05-10 222004" src="https://github.com/user-attachments/assets/eb81e9aa-51c3-4546-b6bb-4e8b3455b100" />
+
+![ welcome ] (<img width="680" height="852" alt="Annotation 2026-05-10 222004" src="https://github.com/user-attachments/assets/8991e68e-cec5-45c5-aa36-719c154e18e7" />
 
 ## ✨ المميزات (Features)
 - **Custom UI Components**: استخدام الـ Widgets المخصصة مثل `CustomTextField` و `CustomContainer` لتنظيم الكود.
