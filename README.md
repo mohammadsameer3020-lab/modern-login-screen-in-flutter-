@@ -7,8 +7,11 @@
 <img width="698" height="862" alt="image" src="https://github.com/user-attachments/assets/a090ef7f-006b-4adb-80d4-eb714654af1c" />
 
   
-| ![Login Preview](<img width="698" height="862" alt="Annotation 2026-05-10 221758" src="https://github.com/user-attachments/assets/81aff330-02ef-42a3-aeec-0ad60caa00e5" />
+| ![Logup](<img width="698" height="862" alt="Annotation 2026-05-10 221758" src="https://github.com/user-attachments/assets/81aff330-02ef-42a3-aeec-0ad60caa00e5" />
 ) | • تصميم نظيف باستخدام `Rubik` font <br> • حقول إدخال مخصصة <br> • تنقل سلس بين الشاشات |
+![Login Preview](<img width="652" height="848" alt="Annotation 2026-05-10 221832" src="https://github.com/user-attachments/assets/acb86e2d-6771-4263-92b3-eb9487fbfe55" />
+)
+![Login Preview](<img width="680" height="852" alt="Annotation 2026-05-10 222004" src="https://github.com/user-attachments/assets/eb81e9aa-51c3-4546-b6bb-4e8b3455b100" />
 
 ## ✨ المميزات (Features)
 - **Custom UI Components**: استخدام الـ Widgets المخصصة مثل `CustomTextField` و `CustomContainer` لتنظيم الكود.
