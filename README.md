@@ -1,4 +1,3 @@
-<img width="652" height="848" alt="Annotation 2026-05-10 221832" src="https://github.com/user-attachments/assets/65cb3644-4712-42c1-ac3e-f1f23b941934" /># Modern Login & Sign Up UI - Flutter 🚀
 
 واجهة مستخدم احترافية وعصرية لشاشات تسجيل الدخول والاشتراك تم بناؤها باستخدام **Flutter**. يتميز التصميم باستخدام خطوط مخصصة (Google Fonts) وتنسيق مرن يتناسب مع مختلف الشاشات.
 
