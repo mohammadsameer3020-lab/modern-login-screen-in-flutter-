@@ -6,14 +6,10 @@
 | Sign In Screen
 <img width="698" height="862" alt="image" src="https://github.com/user-attachments/assets/a090ef7f-006b-4adb-80d4-eb714654af1c" />
 
-  
-| ![Logup](<img width="698" height="862" alt="Annotation 2026-05-10 221758" src="https://github.com/user-attachments/assets/81aff330-02ef-42a3-aeec-0ad60caa00e5" />
-) | • تصميم نظيف باستخدام `Rubik` font <br> • حقول إدخال مخصصة <br> • تنقل سلس بين الشاشات |
-<img width="652" height="848" alt="Annotation 2026-05-10 221832" src="https://github.com/user-attachments/assets/113a0f28-024a-4100-8927-111d1fe50636" />
-()
+  نظره علي الواجهه login
+<img width="652" height="848" alt="Annotation 2026-05-10 221832" src="https://github.com/user-attachments/assets/a2367cbb-d32a-4335-8577-2e1a87830e89" />
 
 
-![ welcome ] (<img width="680" height="852" alt="Annotation 2026-05-10 222004" src="https://github.com/user-attachments/assets/8991e68e-cec5-45c5-aa36-719c154e18e7" />
 
 ## ✨ المميزات (Features)
 - **Custom UI Components**: استخدام الـ Widgets المخصصة مثل `CustomTextField` و `CustomContainer` لتنظيم الكود.
