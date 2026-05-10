@@ -8,6 +8,8 @@
 
   نظره علي الواجهه login
 <img width="652" height="848" alt="Annotation 2026-05-10 221832" src="https://github.com/user-attachments/assets/a2367cbb-d32a-4335-8577-2e1a87830e89" />
+  شاشه الترحيب 
+  <img width="680" height="852" alt="Annotation 2026-05-10 222004" src="https://github.com/user-attachments/assets/bbf53aca-d62b-42af-812b-b89638086b19" />
 
 
 
